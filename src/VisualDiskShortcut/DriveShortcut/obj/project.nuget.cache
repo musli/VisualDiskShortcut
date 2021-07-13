@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "xayPbnZkBW38fj+AuV8ahKvDXtLLUA9TQpQRrhVCHkQRaDVBNvMWHBHAUzr7BGo6YYEjewzpeVWKrA3m7j5/1g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\13414\\SynologyDrive\\Works\\VisualDiskShortcut\\src\\VisualDiskShortcut\\DriveShortcut\\DriveShortcut.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\13414\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.15\\microsoft.netcore.app.host.win-x64.3.1.15.nupkg.sha512"
+  ],
+  "logs": []
+}
